@@ -146,7 +146,7 @@ FELIZ DÍA DEL AMOR 💗
 
 
 <h2>
-Para mi persona especial ✨
+Para Mi bebe tiquita✨
 </h2>
 
 
@@ -168,12 +168,12 @@ Abrir mi regalo 💌
 <div class="carta" id="carta">
 
 <h2>
-💗 Para ti 💗
-</h2>
+💗 Para mi niña hermosa 💗
+</h2>>
 
 <p>
-Quiero que nunca olvides lo especial que eres para mí.
-Gracias por formar parte de mi vida y por todos los momentos que hemos compartido.
+Quiero que nunca olvides lo especial que eres para mí, amorcito.
+Eres mi niña hermosa, mi cielo, mi mundo mi todo y una persona que ocupa un lugar muy importante en mi corazón.
 </p>
 
 <p>
