@@ -186,6 +186,22 @@ Espero que esta pequeña página te saque una sonrisa ✨
 </div>
 
 
+<div class="card">
+
+<h2>
+📸 Nuestros momentos 💗
+</h2>
+
+<p>
+Aquí guardaré algunos recuerdos bonitos de nosotros ✨
+</p>
+
+<img src="https://via.placeholder.com/300" width="300" style="border-radius:20px;">
+
+<p>
+Un recuerdo especial que siempre voy a guardar 💕
+</p>
+
 </div>
 
 
