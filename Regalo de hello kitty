@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Para mi amor 💗</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#ffd6e7;
+    text-align:center;
+    color:#ff4f91;
+}
+
+.container{
+    padding:40px 20px;
+}
+
+h1{
+    font-size:45px;
+}
+
+.hello{
+    font-size:80px;
+}
+
+.card{
+    background:white;
+    max-width:500px;
+    margin:auto;
+    padding:25px;
+    border-radius:25px;
+    box-shadow:0 5px 15px #ff9fc4;
+}
+
+button{
+    background:#ff69a6;
+    color:white;
+    border:0;
+    padding:15px 30px;
+    border-radius:30px;
+    font-size:18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="hello">🎀</div>
+
+<h1>FELIZ DÍA DEL AMOR 💗</h1>
+
+<div class="card">
+
+<h2>Para mi persona especial 💕</h2>
+
+<p>
+Gracias por todos los momentos, las risas y los recuerdos.
+</p>
+
+<p>
+Esta página la hice con mucho cariño para ti.
+</p>
+
+<button>
+Te amo 💗
+</button>
+
+</div>
+
+</div>
+
+</body>
+</html>
