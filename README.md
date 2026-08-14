@@ -259,6 +259,33 @@ actualizarContador();
 setInterval(actualizarContador,60000);
 </script>
 
+<div class="card">
+
+<h2>
+💗 Cosas que amo de ti 💗
+</h2>
+
+<p>
+✨ Tu forma de hacerme sonreír
+</p>
+
+<p>
+✨ Los momentos que compartimos juntos
+</p>
+
+<p>
+✨ Tu manera de ser y tu personalidad
+</p>
+
+<p>
+✨ Cada recuerdo bonito que hemos creado
+</p>
+
+<p>
+✨ Que seas mi amorcito, mi niña hermosa y mi cielo 💕
+</p>
+
+</div>
 
 </body>
 
