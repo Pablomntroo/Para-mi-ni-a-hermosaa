@@ -163,9 +163,12 @@ Gracias por cada risa, cada momento y cada recuerdo bonito.
 
 
 <button onclick="abrirCarta()">
-Abrir mi regalo 💌
+💌 Abrir mi cartita 💗
 </button>
 
+<div id="sobre" style="font-size:70px; margin:20px;">
+💌
+</div>
 
 <div class="carta" id="carta">
 
