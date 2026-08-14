@@ -139,16 +139,17 @@ Siempre voy a guardar los momentos bonitos que hemos vivido juntos 💕
 
 
 <button onclick="mensaje()">
-Te amo 💗
+Abrir mi regalo 💗
 </button>
 
-
+<div id="carta" style="display:none; margin-top:20px;">
+<h2>💌 Para ti</h2>
+<p>
+Quiero que sepas que eres una persona muy especial para mí.
+Gracias por todos los momentos bonitos y por formar parte de mi vida.
+Siempre guardaré con cariño nuestros recuerdos 💗
+</p>
 </div>
-
-
-</div>
-
-
 <script>
 
 function mensaje(){
