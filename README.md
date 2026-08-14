@@ -196,7 +196,7 @@ Espero que esta pequeña página te saque una sonrisa ✨
 Aquí guardaré algunos recuerdos bonitos de nosotros ✨
 </p>
 
-<img <img src=a2f74d34-5d4f-4389-903e-cc2b5303adaa.jpg width="300" style="border-radius:20px;">
+<img <img src="a2f74d34-5d4f-4389-903e-cc2b5303adaa".jpg width="300" style="border-radius:20px;">
 
 <p>
 Un recuerdo especial que siempre voy a guardar 💕
