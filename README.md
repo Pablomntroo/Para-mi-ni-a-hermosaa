@@ -12,7 +12,7 @@
 body{
     margin:0;
     font-family:Arial,sans-serif;
-    background:linear-gradient(#ffd6e7,#fff5fa);
+    background:linear-gradient(#ffcce0,#fff5fa);
     color:#ff4f91;
     text-align:center;
     overflow-x:hidden;
@@ -37,13 +37,14 @@ h1{
     margin:20px auto;
     padding:30px;
     border-radius:30px;
-    box-shadow:0 10px 25px #ffb6d2;
+    box-shadow:0 10px 25px #ff9fc4;
 }
 
 p{
     font-size:18px;
     line-height:1.6;
 }
+
 
 button{
     background:#ff69a6;
@@ -53,6 +54,16 @@ button{
     border-radius:30px;
     font-size:18px;
     cursor:pointer;
+}
+
+
+.carta{
+    display:none;
+    background:#fff0f6;
+    padding:20px;
+    margin-top:20px;
+    border-radius:20px;
+    animation:aparecer 1s;
 }
 
 
@@ -89,6 +100,21 @@ top:100vh;
 
 }
 
+
+@keyframes aparecer{
+
+from{
+opacity:0;
+transform:scale(.5);
+}
+
+to{
+opacity:1;
+transform:scale(1);
+}
+
+}
+
 </style>
 
 </head>
@@ -97,10 +123,10 @@ top:100vh;
 <body>
 
 
-<div class="corazon" style="left:10%;">💗</div>
-<div class="corazon" style="left:30%;animation-delay:2s;">💕</div>
-<div class="corazon" style="left:60%;animation-delay:1s;">💖</div>
-<div class="corazon" style="left:80%;animation-delay:3s;">💗</div>
+<div class="corazon" style="left:10%">💗</div>
+<div class="corazon" style="left:30%;animation-delay:2s">💕</div>
+<div class="corazon" style="left:60%;animation-delay:1s">💖</div>
+<div class="corazon" style="left:80%;animation-delay:3s">💗</div>
 
 
 <div class="container">
@@ -118,43 +144,56 @@ FELIZ DÍA DEL AMOR 💗
 
 <div class="card">
 
+
 <h2>
 Para mi persona especial ✨
 </h2>
 
 
 <p>
-Hice esta página con mucho cariño para recordarte lo importante que eres para mí.
+Hice esta página con mucho cariño para ti.
 </p>
 
 
 <p>
-Gracias por cada momento, cada risa y cada recuerdo.
+Gracias por cada risa, cada momento y cada recuerdo bonito.
 </p>
 
 
-<p>
-Siempre voy a guardar los momentos bonitos que hemos vivido juntos 💕
-</p>
-
-
-<button onclick="mensaje()">
-Abrir mi regalo 💗
+<button onclick="abrirCarta()">
+Abrir mi regalo 💌
 </button>
 
-<div id="carta" style="display:none; margin-top:20px;">
-<h2>💌 Para ti</h2>
+
+<div class="carta" id="carta">
+
+<h2>
+💗 Para ti 💗
+</h2>
+
 <p>
-Quiero que sepas que eres una persona muy especial para mí.
-Gracias por todos los momentos bonitos y por formar parte de mi vida.
-Siempre guardaré con cariño nuestros recuerdos 💗
+Quiero que nunca olvides lo especial que eres para mí.
+Gracias por formar parte de mi vida y por todos los momentos que hemos compartido.
 </p>
+
+<p>
+Espero que esta pequeña página te saque una sonrisa ✨
+</p>
+
 </div>
+
+
+</div>
+
+
+</div>
+
+
 <script>
 
-function mensaje(){
+function abrirCarta(){
 
-alert("Gracias por existir 💗 Nunca olvides lo especial que eres ✨");
+document.getElementById("carta").style.display="block";
 
 }
 
