@@ -172,12 +172,21 @@ Abrir mi regalo 💌
 </h2>>
 
 <p>
-Quiero que nunca olvides lo especial que eres para mí, amorcito.
-Eres mi niña hermosa, mi cielo, mi mundo mi todo y una persona que ocupa un lugar muy importante en mi corazón.
+Mi amorcito, mi niña hermosa, mi cielo 💗
 </p>
 
 <p>
-Espero que esta pequeña página te saque una sonrisa ✨
+Quiero que sepas que eres una persona muy especial para mí.
+Gracias por cada risa, cada momento bonito y cada recuerdo que hemos creado juntos.
+</p>
+
+<p>
+Hice esta pequeña página porque quería darte algo diferente,
+algo que pudiera recordarte lo importante que eres para mí.
+</p>
+
+<p>
+Siempre voy a guardar con cariño todos nuestros momentos y espero que esto te saque una sonrisa 🎀✨
 </p>
 
 </div>
