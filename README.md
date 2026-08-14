@@ -124,8 +124,15 @@ Espero que siempre recuerdes lo mucho que vales y lo especial que eres.
 </p>
 
 <button>
+<button onclick="mensaje()">
 Te amo 💕
 </button>
+
+<script>
+function mensaje(){
+    alert("Gracias por existir 💗 Eres una persona muy especial para mí ✨");
+}
+</script>
 
 </div>
 
