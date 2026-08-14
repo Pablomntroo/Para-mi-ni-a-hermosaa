@@ -211,6 +211,16 @@ Aquí guardaré algunos recuerdos bonitos de nosotros ✨
 Un recuerdo especial que siempre voy a guardar 💕
 </p>
 
+<div class="card">
+
+<h2>
+⏳ Nuestro tiempo juntos 💗
+</h2>
+
+<p id="contador">
+Calculando nuestro tiempo...
+</p>
+
 </div>
 
 
