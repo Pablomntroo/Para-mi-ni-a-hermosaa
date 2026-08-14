@@ -54,13 +54,15 @@ p{
     animation:caer 5s linear infinite;
 }
 
-button{
-    background:#ff69a6;
-    border:none;
-    color:white;
-    padding:15px 35px;
-    border-radius:30px;
-    font-size:18px;
+<button onclick="mensaje()">
+Te amo 💕
+</button>
+
+<script>
+function mensaje(){
+alert("Gracias por existir 💗 Eres una persona muy especial para mí ✨");
+}
+</script>
 }
 
 @keyframes flotar{
