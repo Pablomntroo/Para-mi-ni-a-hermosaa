@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,10 +8,11 @@
 <title>Para mi princesa 💗</title>
 
 <style>
+
 body{
     margin:0;
-    font-family:'Arial', sans-serif;
-    background:linear-gradient(#ffd6e7,#fff0f6);
+    font-family:Arial,sans-serif;
+    background:linear-gradient(#ffd6e7,#fff5fa);
     color:#ff4f91;
     text-align:center;
     overflow-x:hidden;
@@ -26,18 +28,13 @@ body{
 }
 
 h1{
-    font-size:42px;
-    margin:10px;
-}
-
-h2{
-    color:#ff69a6;
+    font-size:40px;
 }
 
 .card{
     background:white;
     max-width:500px;
-    margin:25px auto;
+    margin:20px auto;
     padding:30px;
     border-radius:30px;
     box-shadow:0 10px 25px #ffb6d2;
@@ -48,57 +45,71 @@ p{
     line-height:1.6;
 }
 
+button{
+    background:#ff69a6;
+    color:white;
+    border:none;
+    padding:15px 35px;
+    border-radius:30px;
+    font-size:18px;
+    cursor:pointer;
+}
+
+
 .corazon{
     position:fixed;
+    top:-20px;
     font-size:25px;
-    animation:caer 5s linear infinite;
+    animation:caer 5s infinite;
 }
 
-<button onclick="mensaje()">
-Te amo 💕
-</button>
-
-<script>
-function mensaje(){
-alert("Gracias por existir 💗 Eres una persona muy especial para mí ✨");
-}
-</script>
-}
 
 @keyframes flotar{
-    from{
-        transform:translateY(0);
-    }
-    to{
-        transform:translateY(-15px);
-    }
+
+from{
+transform:translateY(0);
 }
 
+to{
+transform:translateY(-15px);
+}
+
+}
+
+
 @keyframes caer{
-    from{
-        top:-50px;
-    }
-    to{
-        top:100vh;
-    }
+
+from{
+top:-20px;
+}
+
+to{
+top:100vh;
+}
+
 }
 
 </style>
 
 </head>
 
+
 <body>
+
 
 <div class="corazon" style="left:10%;">💗</div>
 <div class="corazon" style="left:30%;animation-delay:2s;">💕</div>
 <div class="corazon" style="left:60%;animation-delay:1s;">💖</div>
 <div class="corazon" style="left:80%;animation-delay:3s;">💗</div>
 
+
 <div class="container">
+
 
 <div class="hello">
 🎀
 </div>
+
 
 <h1>
 FELIZ DÍA DEL AMOR 💗
@@ -108,35 +119,47 @@ FELIZ DÍA DEL AMOR 💗
 <div class="card">
 
 <h2>
-Para la persona más especial ✨
+Para mi persona especial ✨
 </h2>
 
-<p>
-Hice esta pequeña página para recordarte lo importante que eres para mí.
-</p>
 
 <p>
-Gracias por cada risa, cada momento y cada recuerdo que hemos creado juntos.
+Hice esta página con mucho cariño para recordarte lo importante que eres para mí.
 </p>
+
 
 <p>
-Espero que siempre recuerdes lo mucho que vales y lo especial que eres.
+Gracias por cada momento, cada risa y cada recuerdo.
 </p>
 
-<button>
+
+<p>
+Siempre voy a guardar los momentos bonitos que hemos vivido juntos 💕
+</p>
+
+
 <button onclick="mensaje()">
-Te amo 💕
+Te amo 💗
 </button>
 
+
+</div>
+
+
+</div>
+
+
 <script>
+
 function mensaje(){
-    alert("Gracias por existir 💗 Eres una persona muy especial para mí ✨");
+
+alert("Gracias por existir 💗 Nunca olvides lo especial que eres ✨");
+
 }
+
 </script>
 
-</div>
-
-</div>
 
 </body>
+
 </html>
