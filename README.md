@@ -220,8 +220,33 @@ function abrirCarta(){
 
 document.getElementById("carta").style.display="block";
 
+} 
+let fechaInicio = new Date("2026-01-01 00:00:00");
+
+function actualizarContador(){
+
+let ahora = new Date();
+
+let diferencia = ahora - fechaInicio;
+
+let dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
+
+let horas = Math.floor((diferencia / (1000 * 60 * 60)) % 24);
+
+let minutos = Math.floor((diferencia / (1000 * 60)) % 60);
+
+
+document.getElementById("contador").innerHTML =
+"Llevamos juntos 💗<br>" +
+dias + " días, " +
+horas + " horas y " +
+minutos + " minutos ✨";
+
 }
 
+actualizarContador();
+
+setInterval(actualizarContador,60000);
 </script>
 
 
