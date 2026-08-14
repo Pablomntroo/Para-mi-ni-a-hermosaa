@@ -264,6 +264,35 @@ minutos + " minutos ✨";
 actualizarContador();
 
 setInterval(actualizarContador,60000);
+<div class="card">
+
+<h2>
+💗 Lo que amo de ti 💗
+</h2>
+
+<img src="279996e2-4a4c-49c4-9720-4e07ac7563b2.jpg" width="300" style="border-radius:25px;">
+
+<p>
+Amorcito, quiero que sepas lo mucho que significas para mí.
+</p>
+
+<p>
+Amo tu forma de ser, tu sonrisa y esos pequeños detalles que te hacen ser tú.
+</p>
+
+<p>
+Tus ojos tienen algo especial, porque cada vez que los veo recuerdo todos los momentos bonitos que hemos vivido.
+</p>
+
+<p>
+Gracias por cada risa, cada momento y por todas las cosas bonitas que me has regalado.
+</p>
+
+<p>
+Gracias por dejarme formar parte de tu vida y por ser mi niña hermosa, mi cielo y mi amorcito 💗
+</p>
+
+</div>
 </script>
 
 <div class="card">
