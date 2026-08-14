@@ -235,6 +235,8 @@ function abrirCarta(){
 
 document.getElementById("carta").style.display="block";
 
+document.getElementById("sobre").innerHTML="💖";
+
 } 
 let fechaInicio = new Date("2026-01-01 00:00:00");
 
