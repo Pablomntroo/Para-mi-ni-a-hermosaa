@@ -140,7 +140,9 @@ transform:scale(1);
 <h1>
 Esto es para ti amorcito 💗
 </h1>
-
+<p>
+🎀 Una pequeña sorpresa hecha con mucho cariño para mi niña hermosa 🎀
+</p>
 
 <div class="card">
 
