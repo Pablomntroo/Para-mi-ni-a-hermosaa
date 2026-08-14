@@ -196,7 +196,7 @@ Espero que esta pequeña página te saque una sonrisa ✨
 Aquí guardaré algunos recuerdos bonitos de nosotros ✨
 </p>
 
-<img src="https://via.placeholder.com/300" width="300" style="border-radius:20px;">
+<img <img src="foto1.jpg" width="300" style="border-radius:20px;">
 
 <p>
 Un recuerdo especial que siempre voy a guardar 💕
